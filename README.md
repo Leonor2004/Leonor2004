@@ -22,7 +22,7 @@ Hi! My name is Leonor Couto, here you can find some informations about me and of
   
 ## Currently working for the first time 💻
 <div align="center"> 
-Improving my current skills 😊
+<img src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white" alt="haskel" />
 <div align="left">
 
 # GitHub Stats 📈
